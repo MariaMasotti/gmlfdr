@@ -1,6 +1,6 @@
 Package: gmlfdr
 Type: Package
-Title: Fits a gaussian mixture model for use in locfdr calculations 
+Title: Fits a gaussian mixture model for use in locfdr calculations using EM algorithm
 Version: 1.0
 Date: 2018-08-15
 Author: Maria Masotti
