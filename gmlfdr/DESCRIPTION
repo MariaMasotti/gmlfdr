@@ -5,7 +5,7 @@ Version: 1.0
 Date: 2018-08-15
 Author: Maria Masotti
 Maintainer: Maria Masotti <masot003@umn.edu>
-Description: One paragraph description of what the package does as one or more full sentences.
+Description: 
 License: GPL (>= 2)
 Imports: Rcpp (>= 0.12.18)
 LinkingTo: Rcpp
