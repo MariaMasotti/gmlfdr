@@ -14,8 +14,8 @@
 using namespace std;
 using namespace Rcpp;
 
-//input null data, alternative data,k=number of components of alternative dist, and initial estimates of pi,mu,sd
-//export list 
+//inputs null data, alternative data,k=number of components of alternative dist, and initial estimates of pi,mu,sd
+//exports list of parameter estimates
 // [[Rcpp::export]]
 List gmmr(NumericVector data,
           NumericVector datac, 
