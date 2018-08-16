@@ -128,7 +128,7 @@ List gmmr(NumericVector data,
   all["pi"]=pi_new;
   all["mu"]=mu_new;
   all["sd"]=sd_new;
-  all["k"]=K;
+  all["k"]=K-1;
   all["iterations"]=j;
   all["aic"]=aic;
   all["bic"]=bic;
